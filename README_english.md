@@ -39,6 +39,7 @@ git clone https://your-proxy-domain.name/user-your-password/https/github.com/the
 - Now you can directly access https://your-proxy-domain.name/user-your-password/, don't miss the last '/' please. And please replace the domain and password with your own.
 
 ### Deploying to VPS or Cloud Server
+- node v21 or above version is needed.
 ```
 1. Set up an SSL website (using Certbot and Nginx, Google for instructions) and configure Nginx. Your /etc/nginx/conf.d/default.conf should include the following:
    ...
