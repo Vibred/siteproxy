@@ -1,3 +1,5 @@
+![Download Speed test](https://raw.githubusercontent.com/netptop/siteproxy/master/test.png)
+
 # siteproxy 2.0
 <a href="https://github.com/netptop/siteproxy/blob/master/README_english.md"><strong>English</strong></a>
 <br />
