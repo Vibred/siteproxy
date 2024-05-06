@@ -20,6 +20,10 @@ user browser +-------------->+ siteproxy      +-------> wikipedia
 <br>
 注意： 由于支持多个网站的login，为了减少钓鱼风险，siteproxy2.0代码进行了混淆，同时禁止了默认主页网址的修改。
 
+<br>
+来自telegram网友的展示siteproxy部署后速度测试： 
+![Download Speed](./download_speed.png)
+
 ## 目录
 
 - [特点](#特点)
