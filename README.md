@@ -22,7 +22,7 @@ user browser +-------------->+ siteproxy      +-------> wikipedia
 
 <br>
 来自telegram网友的展示siteproxy部署后速度测试： 
-![Download Speed](./download_speed.png)
+![Download Speed](./test.png)
 
 ## 目录
 
