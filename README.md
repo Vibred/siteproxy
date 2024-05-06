@@ -1,9 +1,6 @@
-![Download Speed test](https://raw.githubusercontent.com/netptop/siteproxy/master/test.png)
 
 # siteproxy 2.0
 <a href="https://github.com/netptop/siteproxy/blob/master/README_english.md"><strong>English</strong></a>
-<br />
-<br />
 Siteproxy 2.0 使用了service worker, 使得代理更加稳定, 可以代理了的网站更多。
 同时使用hono替代express，速度提高4倍。 支持cloudflare worker部署。
 反向代理, 免翻墙访问youtube/google, 支持github和telegram web登录(请注意不要通过不信任的代理登录)。
@@ -19,10 +16,8 @@ user browser +-------------->+ siteproxy      +-------> wikipedia
                                                  +----> chinese forums
 ```
 请勿将本项目用于非法用途，否则后果自负。
-<br />
 注意： 由于支持多个网站的login，为了减少钓鱼风险，siteproxy2.0代码进行了混淆，同时禁止了默认主页网址的修改。
 
-<br />
 来自telegram网友的展示siteproxy部署后速度测试： 
 ![Download Speed test](https://raw.githubusercontent.com/netptop/siteproxy/master/test.png)
 
