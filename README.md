@@ -17,10 +17,10 @@ user browser +-------------->+ siteproxy      +-------> wikipedia
                                                  +----> chinese forums
 ```
 请勿将本项目用于非法用途，否则后果自负。
-<br>
+<br />
 注意： 由于支持多个网站的login，为了减少钓鱼风险，siteproxy2.0代码进行了混淆，同时禁止了默认主页网址的修改。
 
-<br>
+<br />
 来自telegram网友的展示siteproxy部署后速度测试： 
 ![Download Speed test](https://raw.githubusercontent.com/netptop/siteproxy/master/test.png)
 
